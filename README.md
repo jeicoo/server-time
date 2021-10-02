@@ -18,7 +18,7 @@ The application as a whole is composed of 3 components:
 
 ## High Level Architecture
 
-
+![sever-time-architecture](docs/server-time-architecture.drawio.png?raw=true)
 
 
 ## Designing CI/CD
